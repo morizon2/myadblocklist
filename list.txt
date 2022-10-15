@@ -54,7 +54,7 @@ nantuka.blog119.fc2.com
 ||akb48.atz.tokyo
 ||aladdin.genieesspv.jp
 ||alltyomm.noob.jp
-||amaprop.net
+
 ||amazon-adsystem.com
 ||ams900.goo.ne.jp
 ||amung.us
@@ -131,9 +131,9 @@ nantuka.blog119.fc2.com
 ||ds.interworksmedia.co.kr
 ||dtscout.com
 ||dtscout.rtb.adx1.com
-||ec1.images-amazon.com
-||ec2.images-amazon.com
-||ecx.images-amazon.com
+
+
+
 ||eikaiwa.dmm.com
 ||extra-other.com
 ||fam-ad.com
@@ -168,9 +168,9 @@ nantuka.blog119.fc2.com
 ||image.d-064.com
 ||image.livelog.biz
 ||imagebank30.com
-||images-fe.ssl-images-amazon.com
-||images-jp.amazon.com
-||images-na.ssl-images-amazon.com
+
+
+
 ||img.adinc.co.kr
 ||img.adpon.net
 ||img.digiket.net
@@ -287,7 +287,7 @@ nantuka.blog119.fc2.com
 ||rabitsokuhou.2chblog.jp
 ||rankc1.apserver.net
 ||rc5.i2i.jp
-||rcm-images.amazon.com
+
 ||rcm.shinobi.jp
 ||rcv.a-i-ad.com
 ||rdp.pro.ne.jp
@@ -301,7 +301,7 @@ nantuka.blog119.fc2.com
 ||ryusoku.com
 ||s.liveads.jp
 ||s.po.st
-||s3-ap-northeast-1.amazonaws.com
+
 ||saikouresw.halfmoon.jp
 ||sakarabo.blog.jp
 ||sbs-jp-ad.com
@@ -358,7 +358,7 @@ nantuka.blog119.fc2.com
 ||wp.com
 ||www.2ch-mmsite.com
 ||www.aduoso.com
-||www.all-nationz.com
+
 ||www.amazones-tools.com
 ||www.amihna.com
 ||www.antennash.com
@@ -518,7 +518,6 @@ pcci.jp
 point.i2i.jp
 prcm.jp
 pyonsacoon.thyme.jp
-qiita.com
 rabitsokuhou.2chblog.jp
 rumor.atz.tokyo
 ryuchin.com
@@ -551,7 +550,6 @@ www.amihna.com
 www.anige-sokuhouvip.com
 www.honmotakeshi.com
 www.mudainodocument.com
-www.nicovideo.jp
 www.nocutnews.co.kr
 www.nytimes.com
 www.okutta.net
