@@ -1,19 +1,8 @@
 
- bandai11.blog.fc2.com
- blog.livedoor.jp
- gahalog.2chblog.jp
- nantuka.blog119.fc2.com
-.gif|$domain=gacha.blog.jp
-@@||9232428.fls.doubleclick.net
-@@||a8.net
-@@||ad.jp.ap.valuecommerce.com
-@@||i1.wp.com
-@@||j-a-net.jp
-@@||v.fwmrm.net
-@@||veta.naver.com
-&adlink=$domain=tv.naver.com
-<a href="www.dmm.com
-||*
+bandai11.blog.fc2.com
+blog.livedoor.jp
+gahalog.2chblog.jp
+nantuka.blog119.fc2.com
 ||2020tokyoolympic.jpn.com
 ||21143.p21.justsv.com
 ||2chan.net
@@ -440,7 +429,6 @@ damage0.com
 deaiman.net
 digital-thread.com
 eikaiwa.dmm.com
-END
 exawarosu.net
 exawarosu.net,heartlife-matome.com,kijyomatome-ch.com,kitizawa.com,mojomojo-licarca.com,onihimechan.com,sutekinakijo.com,www.matometemitatta.com
 forzaxbox.net
@@ -563,11 +551,9 @@ whatsnow.momojiri.futoka.jp
 wp.comはpopin,taboole系なのでブロックするのはやめた
 www.akb48matomemory.com
 www.allkpop.com
-www.amazon.co.jp
 www.amihna.com
 www.anige-sokuhouvip.com
 www.honmotakeshi.com
-www.itmedia.co.jp
 www.mudainodocument.com
 www.nicovideo.jp
 www.nocutnews.co.kr
@@ -585,7 +571,7 @@ ZAIFで表示が崩れる。2021.2.21
 zatsudanbaseball.blog.jp
 zet22wint.rdy.jp
 ziohopcc.crap.jp
-アニはつ -アニメ発信場 anihatsu.com
+anihatsu.com
 おたく.com
 オタク.com
 最新ゲーム速報！ＦorzaＸboxヾ(。゜▽゜).
