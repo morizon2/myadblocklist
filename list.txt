@@ -1,5 +1,4 @@
 bandai11.blog.fc2.com
-blog.livedoor.jp
 gahalog.2chblog.jp
 nantuka.blog119.fc2.com
 ||2020tokyoolympic.jpn.com
@@ -83,7 +82,6 @@ nantuka.blog119.fc2.com
 ||bitflyer.jp
 ||blog-imgs-1.fc2.com
 ||blog-imgs-112.fc2.com
-||blog.livedoor.jp
 ||blog.livelog.biz
 ||blog.naver.com
 ||blog.seesaa.jp
@@ -218,8 +216,6 @@ nantuka.blog119.fc2.com
 ||lcs.naver.com
 ||lifecocom.net
 ||link-a.net
-||livedoor.4.blogimg.jp
-||livedoor.blogimg.jp
 ||livere.co.kr
 ||luyuan-sp.com
 ||luyuan-sp.com$popup
@@ -273,7 +269,6 @@ nantuka.blog119.fc2.com
 ||pagead2.googlesyndication.com
 ||pappins.tokyo
 ||pappins.tokyo$inline-script
-||parts.blog.livedoor.jp
 ||parusoku.com
 ||pastebin.com
 ||pc.clickmedias.info
@@ -410,7 +405,6 @@ beelzeboulxxx.com
 before-hage.com
 bitcoin-oshiete.com
 blog.esuteru.com
-blog.livedoor.jp
 blues.plovdivtv.com
 brow2ing.doorblog.jp
 burusoku-vip.com
