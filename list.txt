@@ -1,4 +1,3 @@
-
 bandai11.blog.fc2.com
 blog.livedoor.jp
 gahalog.2chblog.jp
@@ -429,8 +428,6 @@ damage0.com
 deaiman.net
 digital-thread.com
 eikaiwa.dmm.com
-exawarosu.net
-exawarosu.net,heartlife-matome.com,kijyomatome-ch.com,kitizawa.com,mojomojo-licarca.com,onihimechan.com,sutekinakijo.com,www.matometemitatta.com
 forzaxbox.net
 fusigiisekai.com
 futabalog.com
@@ -548,7 +545,6 @@ tv.naver.com
 vippers.jp
 vipsister23.com
 whatsnow.momojiri.futoka.jp
-wp.comはpopin,taboole系なのでブロックするのはやめた
 www.akb48matomemory.com
 www.allkpop.com
 www.amihna.com
@@ -567,14 +563,12 @@ www.yonason9841.net
 www.zaikei.co.jp
 yamahiro-invest.com
 yaraon-blog.com
-ZAIFで表示が崩れる。2021.2.21
 zatsudanbaseball.blog.jp
 zet22wint.rdy.jp
 ziohopcc.crap.jp
 anihatsu.com
 おたく.com
 オタク.com
-最新ゲーム速報！ＦorzaＸboxヾ(。゜▽゜).
-大炎上 daienjo.blog.jp
-非常識＠なんJ absurd.blogo.jp
+daienjo.blog.jp
+absurd.blogo.jp
 夢のビットコイン.club
